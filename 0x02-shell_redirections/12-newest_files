@@ -1,3 +1,2 @@
 #!/bin/bash
-cd ..
-clear
+ls -1t | head -10
